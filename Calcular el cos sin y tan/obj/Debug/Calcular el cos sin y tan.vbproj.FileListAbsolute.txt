@@ -1,0 +1,34 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.exe.config
+C:\Users\Alex\AppData\Local\Temporary Projects\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.xml
+C:\Users\Alex\AppData\Local\Temporary Projects\Calcular el cos sin y tan\obj\Debug\Calcular_el_cos_sin_y_tan.Resources.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.vbproj.GenerateResource.Cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.xml
+C:\Users\Alex\AppData\Local\Temporary Projects\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Calcular el cos sin y tan\obj\Debug\Calcular_el_cos_sin_y_tan.Form1.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular_el_cos_sin_y_tan.Form1.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular_el_cos_sin_y_tan.Resources.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.pdb
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.exe.config
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.exe
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.xml
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.pdb
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.exe
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.pdb
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.xml
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular_el_cos_sin_y_tan.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular_el_cos_sin_y_tan.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.vbproj.GenerateResource.Cache
